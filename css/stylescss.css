@@ -63,7 +63,7 @@ body {
     font-size: 18px;
     /* Increase font size */ }
   body #myBtn:hover {
-    background-color: #f0f193;
+    background-color: white;
     /* Add a dark-grey background on hover */ }
 
 .maNav {
