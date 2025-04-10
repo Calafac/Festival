@@ -97,8 +97,8 @@ body {
     font-size: 4rem;
     text-shadow: 5px 0px 0px #5eab99; }
   .welcome article .btn-custom {
-    color: #f0f193;
-    border-color: #f0f193;
+    color: white;
+    border-color: white;
     margin-top: 5%; }
     .welcome article .btn-custom:hover {
       color: white;
