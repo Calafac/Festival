@@ -11,7 +11,7 @@ body {
     color: #1f2c34;
     font-family: "Monserrat", sans-serif;
     font-weight: 700;
-    border-left: 5px solid #6c301a;
+    border-left: 5px solid #e96b55;
     padding-left: 5%;
     margin-bottom: 3%; }
   body a {
@@ -73,9 +73,9 @@ body {
     color: #fff;
     font-weight: 600; }
     .maNav .navbar-nav a.nav-link:hover {
-      color: #3b621d; }
+      color: #5eab99; }
   .maNav .navbar-nav a.nav-link.active {
-    color: #3b621d; }
+    color: #5eab99; }
 
 .welcome aside {
   background: url("../images/01-Image.jpg") no-repeat bottom;
