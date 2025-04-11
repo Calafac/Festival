@@ -97,12 +97,12 @@ body {
     font-size: 4rem;
     text-shadow: 5px 0px 0px #5eab99; }
   .welcome article .btn-custom {
-    color: white;
-    border-color: white;
+    color: black;
+    border-color: black;
     margin-top: 5%; }
     .welcome article .btn-custom:hover {
-      color: white;
-      border-color: white; }
+      color: black;
+      border-color: black; }
 
 .about aside {
   background: url("../images/02-Image.jpg") no-repeat center;
