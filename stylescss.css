@@ -11,24 +11,24 @@ body {
     color: #1f2c34;
     font-family: "Monserrat", sans-serif;
     font-weight: 700;
-    border-left: 5px solid #e96b55;
+    border-left: 5px solid #6c301a;
     padding-left: 5%;
     margin-bottom: 3%; }
   body a {
-    color: #e96b55; }
+    color: #6c301a; }
     body a:hover {
-      color: #5eab99;
+      color: #3b621d;
       text-decoration: none; }
   body .btn-custom {
     background: transparent;
-    border: 2px solid #e96b55;
+    border: 2px solid #6c301a;
     border-radius: 25px;
-    color: #e96b55;
+    color: #6c301a;
     font-weight: 600;
     text-transform: uppercase; }
     body .btn-custom:hover {
-      border-color: #5eab99;
-      color: #5eab99; }
+      border-color: #3b621d;
+      color: #3b621d; }
   body .container-fluid {
     padding: 0; }
     body .container-fluid aside {
@@ -46,13 +46,13 @@ body {
     /* Place the button 30px from the right */
     z-index: 99;
     /* Make sure it does not overlap */
-    border: 2px solid #e96b55;
+    border: 2px solid #6c301a;
     /* Remove borders */
     outline: none;
     /* Remove outline */
     background-color: transparent;
     /* Set a background color */
-    color: #e96b55;
+    color: #6c301a;
     /* Text color */
     cursor: pointer;
     /* Add a mouse pointer on hover */
@@ -73,9 +73,9 @@ body {
     color: #fff;
     font-weight: 600; }
     .maNav .navbar-nav a.nav-link:hover {
-      color: #5eab99; }
+      color: #3b621d; }
   .maNav .navbar-nav a.nav-link.active {
-    color: #5eab99; }
+    color: #3b621d; }
 
 .welcome aside {
   background: url("../images/01-Image.jpg") no-repeat bottom;
