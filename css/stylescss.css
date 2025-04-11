@@ -83,8 +83,8 @@ body {
   height: auto;
   min-height: 200px; }
 .welcome article {
-  background: #e96b55;
-  color: white;
+  background: #fff0cf;
+  color: black;
   text-align: center;
   text-transform: uppercase; }
   .welcome article .date {
